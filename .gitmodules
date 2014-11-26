@@ -1,4 +1,4 @@
 [submodule "gaia"]
 	path = gaia
-	url = git@github.com:jincreator/gaia.git
+	url = https://github.com/jincreator/gaia.git
 	branch = bug1104358
